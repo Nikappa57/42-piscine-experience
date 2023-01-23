@@ -11,6 +11,7 @@ An intense month of programming, to learn the basics of C languagge, Shell and G
 [more info](https://42roma.it/la-piscine/)
 
 <hr>
+
 #### Evaluations
 
 |Exam|Evaluation|
