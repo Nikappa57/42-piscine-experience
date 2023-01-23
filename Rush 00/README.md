@@ -8,7 +8,7 @@
 
 <hr>
 
-<h4>C Piscine Rush 00</h4>
+<h4>Skills</h4>
 - Unix
 - Rigor
 - Group & interpersonal
