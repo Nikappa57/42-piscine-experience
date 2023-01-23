@@ -1,4 +1,4 @@
-## C Piscine Rush 00
+<h2 align="center">C Piscine Rush 00</h2>
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
