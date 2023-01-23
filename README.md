@@ -7,9 +7,11 @@
 </p>
 
 An intense month of programming, to learn the basics of C languagge, Shell and Git in an innovative way, based on self-learning and teamworking.
+
 [more info](https://42roma.it/la-piscine/)
 
 <hr>
+#### Evaluations
 
 |Exam|Evaluation|
 |---|---|
