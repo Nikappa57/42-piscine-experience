@@ -9,6 +9,7 @@
 <hr>
 
 <h4>Skills</h4>
+
 - Unix
 - Rigor
 - Group & interpersonal
